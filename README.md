@@ -1,12 +1,12 @@
 # DeepDream with a few changes
 
 This version of the DeepDream code has a few changes to the original code:
-varying stepsize and iteration count over the octaves
-optional class suppression
-optional maximum und blur filtering of activation layers
-a given image size for the first octave instead of a scale factor
-optional desaturation
-a utility function to load images from local paths and remote urls
+*varying stepsize and iteration count over the octaves
+*optional class suppression
+*optional maximum und blur filtering of activation layers
+*a given image size for the first octave instead of a scale factor
+*optional desaturation
+*a utility function to load images from local paths and remote urls
 
 
 If you are new to this you should start with the original version:
